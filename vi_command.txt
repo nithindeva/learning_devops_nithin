@@ -1,0 +1,19 @@
+1.To insert new text - i + enter
+2.To save file - esc + :w
+3.To save file with file name(save as) - esc + :w "filename" we do this if we didnot give any file in the begining, we just gave command vi and entered the text without giving any file name. here we can create the file name.
+4.To quit the vi editor - esc + :q
+5. To save and quit at a time - esc + :wq
+6. To quit without saving - esc + :q!
+7. To search for specified word in forward direction - esc + /type word 
+8. To continue with search - n
+9. To search for specified word in backward direction - esc + ?type word
+10.To copy the line where cursor is located - esc + yy
+11.To paste the text just deleted or copied at the cursor - esc + p
+12.To delete the entire line where cursor is located - esc + dd
+13.To delete word from cursor position - esc + dw
+14.To find all occurances of given word and replace them globally without confirmation - esc + :$s/word-to-find/word-to-replace/g
+
+15.To find all occurances of given word and replace them globally with confirmation - esc + :$s/word-to-find/word-to-replace/cg
+16.To run shell command like ls,cp or date etc within vi - esc + :!shell-command
+
+ 

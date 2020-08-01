@@ -1,0 +1,19 @@
+ls
+pwd
+cd
+cd ..
+mkdir
+rm -f
+rm -rf
+cat
+vi
+vim
+touch
+man
+ls -a
+ls -l
+ls -lh
+ls -ll
+ll
+nano
+
