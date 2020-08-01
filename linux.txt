@@ -16,4 +16,8 @@ ls -lh
 ls -ll
 ls -lrt
 nano
+cd ~ ---> tilt this brings us to the original path
+cd /bin ---> after reverting to original path this /bin path will give you list of all the linux commands
+history ---> gives recently used commands
+history n(number from where you want to see the commanda list) eg: history 0 shows all the commanda used from the begining.
 
